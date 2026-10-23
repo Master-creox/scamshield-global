@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "ScamShield Global",
+  "version": "1.0.0",
+  "description": "One-click scam link checker by ScamShield Global - explains every risk score.",
+  "action": { "default_popup": "popup.html", "default_title": "ScamShield: check this page" },
+  "permissions": ["activeTab"]
+}

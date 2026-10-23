@@ -1,0 +1,21 @@
+# brand official_domain (one per line, # = comment)
+google google.com
+youtube youtube.com
+facebook facebook.com
+instagram instagram.com
+amazon amazon.com
+netflix netflix.com
+paypal paypal.com
+apple apple.com
+microsoft microsoft.com
+whatsapp whatsapp.com
+telegram telegram.org
+binance binance.com
+coinbase coinbase.com
+sbi sbi.co.in
+hdfcbank hdfcbank.com
+icicibank icicibank.com
+paytm paytm.com
+phonepe phonepe.com
+flipkart flipkart.com
+steam steampowered.com

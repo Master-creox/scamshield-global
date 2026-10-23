@@ -1,0 +1,11 @@
+# Known scam/phishing domains (sample educational dataset)
+google-security-check.xyz
+paypa1-secure.top
+free-iphone-winner.click
+amazon-prize-claim.buzz
+bank-kyc-update-now.xyz
+crypto-double-return.top
+netflix-billing-fail.click
+whatsapp-gold-upgrade.xyz
+irs-tax-refund-fast.top
+steam-free-nitro.click
